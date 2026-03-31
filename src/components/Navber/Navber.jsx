@@ -22,7 +22,7 @@ const Navber = () => {
 
   return (
     <nav className="shadow">
-      <div className='max-w-[1080px] mx-auto flex justify-between items-center py-4 relative px-2 sm:px-4 lg:px-0'>
+      <div className='max-w-[1080px] mx-auto flex justify-between items-center py-4 relative px-2 sm:px-4 md:px-0'>
 
         {/* Logo */}
         <h2 className="bg-gradient-to-r from-[#4F39F6] to-[#9514FA] text-transparent bg-clip-text text-xl md:text-2xl font-semibold">
