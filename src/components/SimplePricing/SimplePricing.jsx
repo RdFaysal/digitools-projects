@@ -22,8 +22,8 @@ const SimplePricing = () => {
             <div>
               <h2 className="text-xl md:text-2xl font-bold">Starter</h2>
               <p className="text-[#627382]">Perfect for getting started</p>
-              <p className="text-xl font-semibold my-3">
-                $0 <span className="text-sm text-[#627382]">/Month</span>
+              <p className="text-2xl font-semibold my-3">
+                $0<span className="text-sm text-[#627382]">/Month</span>
               </p>
             </div>
 
@@ -65,8 +65,8 @@ const SimplePricing = () => {
             <div>
               <h2 className="text-xl md:text-2xl font-bold">Pro</h2>
               <p className="text-gray-200">Best for professionals</p>
-              <p className="text-xl font-semibold my-3">
-                $29 <span className="text-sm text-gray-200">/Month</span>
+              <p className="text-2xl font-semibold my-3">
+                $29<span className="text-sm text-gray-200">/Month</span>
               </p>
             </div>
 
@@ -115,8 +115,8 @@ const SimplePricing = () => {
             <div>
               <h2 className="text-xl md:text-2xl font-bold">Enterprise</h2>
               <p className="text-[#627382]">For teams and businesses</p>
-              <p className="text-xl font-semibold my-3">
-                $99 <span className="text-sm text-[#627382]">/Month</span>
+              <p className="text-2xl font-semibold my-3">
+                $99<span className="text-sm text-[#627382]">/Month</span>
               </p>
             </div>
 

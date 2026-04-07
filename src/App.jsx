@@ -5,6 +5,7 @@ import Banner from './components/Banner/Banner'
 import RatingTools from './components/RatingTools/RatingTools'
 import CreateAccount from './components/CreateAccount/CreateAccount'
 import SimplePricing from './components/SimplePricing/SimplePricing'
+import Workflow from './components/Workflow/Workflow'
 function App() {
   
 
@@ -15,6 +16,7 @@ function App() {
        <RatingTools></RatingTools>
        <CreateAccount></CreateAccount>
        <SimplePricing></SimplePricing>
+       <Workflow> </Workflow>
     </div>
   )
 }
