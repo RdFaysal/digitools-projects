@@ -1,16 +1,38 @@
-# React + Vite
+# DigiTools - Premium Digital Products
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based web application where users can explore and purchase premium digital tools.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- 🛒 Add to cart system
+- ❌ Remove from cart
+- 🔄 Real-time cart update
+- 💰 Total price calculation
+- 📱 Fully responsive design
+- 🔔 Toast notifications
+- 🔘 Tab system (Products & Cart)
+- 📌 Sticky Navbar
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- DaisyUI
+- React Icons
+- React Toastify
+
+---
+
+##  Dependencies
+
+```bash
+react
+react-dom
+react-icons
+react-toastify
+tailwindcss
+
