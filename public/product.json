@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.icons8.com/fluency/96/resume.png",
+    "name": "Resume Builder",
+    "description": "Create professional resumes in minutes with modern templates.",
+    "price": 10,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://img.icons8.com/fluency/96/portfolio.png",
+    "name": "Portfolio Maker",
+    "description": "Build stunning portfolios to showcase your work.",
+    "price": 20,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Custom themes",
+      "SEO friendly",
+      "Fast loading"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://img.icons8.com/fluency/96/bill.png",
+    "name": "Invoice Generator",
+    "description": "Generate invoices easily for your business or freelance work.",
+    "price": 5,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best",
+    "features": [
+      "Custom branding",
+      "Auto calculations",
+      "Download PDF"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://cdn-icons-png.flaticon.com/512/3536/3536505.png",
+    "name": "Social Media Scheduler",
+    "description": "Plan and schedule your social media posts efficiently.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Auto posting",
+      "Analytics dashboard",
+      "Multi-platform support"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://img.icons8.com/fluency/96/design.png",
+    "name": "Logo Maker",
+    "description": "Design professional logos for your brand instantly.",
+    "price": 12,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "1000+ icons",
+      "Custom colors",
+      "High resolution export"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://img.icons8.com/fluency/96/artificial-intelligence.png",
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ]
+  }
+]
